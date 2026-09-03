@@ -1,6 +1,6 @@
-# Student Portfolio
+# Junsu (Michael) Kim — Portfolio
 
-A beginner-friendly personal portfolio made with only HTML and CSS.
+A beginner-friendly personal portfolio made with HTML and CSS. The site connects Junsu's interests in film, AI, animation, and web development.
 
 ## Edit the site
 
@@ -14,7 +14,7 @@ Double-click `index.html` to open it in a browser. No installation or build step
 
 ## Easy first changes
 
-1. Replace “Alex Morgan” with your name.
-2. Replace `hello@example.com` with your email address.
-3. Replace the `#` placeholder links with links to your work and social profiles.
-4. Change the project titles and descriptions after each course assignment.
+1. Replace each “Coming soon” project with finished course work.
+2. Add the project URL and GitHub repository link to its card.
+3. Add a profile image later if desired.
+4. Update the skills section as new tools are learned.
