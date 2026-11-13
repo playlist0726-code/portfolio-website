@@ -1,20 +1,11 @@
-# Junsu (Michael) Kim — Portfolio
+# Portfolio Website — HTML/CSS Study
 
-A beginner-friendly personal portfolio made with HTML and CSS. The site connects Junsu's interests in film, AI, animation, and web development.
+An earlier personal portfolio by Junsu (Michael) Kim, retained as an educational HTML/CSS project.
 
-## Edit the site
+**[Current professional portfolio](https://playlist0726-code.github.io/)** · [Earlier portfolio study](https://playlist0726-code.github.io/portfolio-website/) · [Films](https://michael-kim-creative-portfolio.starbuild4590.chatgpt.site)
 
-- Open `index.html` to change the words, links, and project details.
-- Open `styles.css` to change colors, spacing, and type sizes.
-- Comments in both files label the main sections.
+The current portfolio has individual case studies, implementation links, contribution details, and prototype/coursework labels. This repository preserves the smaller static site as a web design exercise.
 
-## Preview the site
+## Preview and edit
 
-Double-click `index.html` to open it in a browser. No installation or build step is needed.
-
-## Easy first changes
-
-1. Replace each “Coming soon” project with finished course work.
-2. Add the project URL and GitHub repository link to its card.
-3. Add a profile image later if desired.
-4. Update the skills section as new tools are learned.
+Open `index.html` in a browser, or run `python3 -m http.server 8000`. No packages or build step are needed. Edit content in `index.html` and presentation in `styles.css`.
